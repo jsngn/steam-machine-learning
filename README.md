@@ -4,7 +4,7 @@
 
 A machine learning project using data about 27,000 Steam games.
 
-The objective is to predict whether a game has many/few ratings based on its other attributes.
+The objective is to predict whether a game has many/few ratings based on its other attributes. I got the model to predict with ~80% accuracy.
 
 I started this project because I wanted to try a binary classification problem with all binarized data.
 
