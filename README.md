@@ -10,6 +10,8 @@ I started this project because I wanted to try a binary classification problem w
 
 # Jupyter Notebooks
 
+IMPORTANT: Please try [this fix](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/issues/11) if the notebooks don't load on GitHub.
+
 [steam_clean_data.ipynb](steam_clean_data.ipynb): prepares data to be fed into the models
 
 [steam_models.ipynb](steam_models.ipynb): evaluates a handful of models then tunes RFC
