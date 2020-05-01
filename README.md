@@ -18,7 +18,7 @@ IMPORTANT: Please try [this fix](https://github.com/iurisegtovich/PyTherm-applie
 
 # Data Sources
 
-[steam.csv](steam.csv): https://www.kaggle.com/nikdavis/steam-store-games
+[steam.csv](steam.csv): https://www.kaggle.com/nikdavis/steam-store-games (all credits to original author; see link for [author](https://www.kaggle.com/nikdavis) & [license](https://creativecommons.org/licenses/by/4.0/) info)
 
 [top-dev-pub.csv](top-dev-pub.csv): https://steam250.com/developer and https://steam250.com/publisher (retrieved on 08/19/2019)
 
